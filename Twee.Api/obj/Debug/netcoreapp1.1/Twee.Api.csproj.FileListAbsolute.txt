@@ -1,0 +1,9 @@
+E:\Projects\Twee\Twee.Api\Twee.Api\bin\Debug\netcoreapp1.1\Twee.Api.deps.json
+E:\Projects\Twee\Twee.Api\Twee.Api\bin\Debug\netcoreapp1.1\Twee.Api.runtimeconfig.json
+E:\Projects\Twee\Twee.Api\Twee.Api\bin\Debug\netcoreapp1.1\Twee.Api.runtimeconfig.dev.json
+E:\Projects\Twee\Twee.Api\Twee.Api\bin\Debug\netcoreapp1.1\Twee.Api.dll
+E:\Projects\Twee\Twee.Api\Twee.Api\obj\Debug\netcoreapp1.1\Twee.Api.csprojResolveAssemblyReference.cache
+E:\Projects\Twee\Twee.Api\Twee.Api\obj\Debug\netcoreapp1.1\Twee.Api.AssemblyInfo.cs
+E:\Projects\Twee\Twee.Api\Twee.Api\bin\Debug\netcoreapp1.1\Twee.Api.pdb
+E:\Projects\Twee\Twee.Api\Twee.Api\obj\Debug\netcoreapp1.1\Twee.Api.dll
+E:\Projects\Twee\Twee.Api\Twee.Api\obj\Debug\netcoreapp1.1\Twee.Api.pdb
